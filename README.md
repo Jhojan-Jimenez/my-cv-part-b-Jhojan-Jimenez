@@ -1,3 +1,6 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Bw5l2ga8)
+No me di cuenta que habia parte a y b, todo lo hice en uno solo, mala mía
+Repo: https://github.com/Jhojan-Jimenez/dsaw-2024-2-cv
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
