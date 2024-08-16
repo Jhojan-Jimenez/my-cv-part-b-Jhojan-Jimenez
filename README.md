@@ -1,4 +1,5 @@
 # Bienvenidos a la Tarea de HTML y CSS
+Repo: https://github.com/Jhojan-Jimenez/dsaw-2024-2-cv Pag Desplegada: https://jhojan-jimenez.github.io/dsaw-2024-2-cv/
 
 ¡Hola a todos!
 
